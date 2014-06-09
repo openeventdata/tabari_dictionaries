@@ -1,4 +1,4 @@
-Dictionaries
+TABARI Dictionaries
 ============
 
 This repo holds various KEDS, TABARI and PETRARCH actor, agent and verb dictionaries. 
